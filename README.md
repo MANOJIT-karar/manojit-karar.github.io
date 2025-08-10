@@ -8,6 +8,11 @@ This project showcases a **full CI/CD pipeline** deploying my portfolio website 
 - **Version Control:** Git as a single source of truth for both AWS & GitHub Pages
 - **Professional Touch:** CloudFront cache invalidation for instant updates
 
+## 🔗 Live Demo
+- **GitHub Pages:** [manojit-karar.github.io](https://manojit-karar.github.io)
+- **AWS CloudFront:** [Live Site](https://dtqq3blocuwzj.cloudfront.net)
+
+
 Whenever I push changes to the `main` branch, GitHub Actions automatically:
 1. Updates GitHub Pages.
 2. Syncs files to AWS S3.
